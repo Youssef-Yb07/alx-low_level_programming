@@ -1,4 +1,4 @@
-# 0x05. C - More pointers, arrays and strings
+# 0x06. C - More pointers, arrays and strings
 
 ## Description
 What you should learn from this project:
@@ -37,4 +37,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Youssef Bouichenade** - [Youssef-Yb07](https://github.com/Youssef-Yb07)
